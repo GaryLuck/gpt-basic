@@ -1,4 +1,5 @@
 # Tiny BASIC Interpreter
+[![CI](https://github.com/GaryLuck/gpt-basic/actions/workflows/ci.yml/badge.svg)](https://github.com/GaryLuck/gpt-basic/actions/workflows/ci.yml)
 
 A fully functional BASIC interpreter written in Python supporting classic BASIC features.
 
